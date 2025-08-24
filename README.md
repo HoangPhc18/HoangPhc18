@@ -37,13 +37,7 @@ I enjoy solving complex problems, exploring new technologies, and turning ideas 
 - 🐙 GitHub: [HoangPhc18](https://github.com/HoangPhc18)
 - 📘 Facebook: [h0anqphuc](https://www.facebook.com/h0anqphuc)
 
----
 
-## 📈 GitHub Stats
-
-![HoangPhc18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoangPhc18&show_icons=true&theme=radical)
-
----
 
 
 
