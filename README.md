@@ -17,13 +17,14 @@ I enjoy solving meaningful problems and building systems that work — reliably,
 
 ## 🌟 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| **🏡 Chatbot Information Query System** | Chatbot nội bộ cho công ty bất động sản tại Cần Thơ, sử dụng **OpenAI GPT-4**, **LangChain**, **FAISS**, triển khai bằng **FastAPI + Docker**. |
-| **📰 AI Magazine System** | Hệ thống thu thập & tạo bài viết tự động từ Google News, Facebook. Xây dựng bằng **Laravel**, **Flask**, **OpenAI**, theo kiến trúc **microservices**. |
-| **📱 Store Management App** | Ứng dụng quản lý cửa hàng điện thoại, viết bằng **Java Swing + MySQL**, hỗ trợ chức năng quản lý sản phẩm và đơn hàng. |
+| Project                        | Description                                                                                                    |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------|
+| **🏡 Chatbot Information Query System** | Internal chatbot for a real estate company in Cần Thơ, using **OpenAI GPT-4**, **LangChain**, **FAISS**, deployed with **FastAPI + Docker**. |
+| **📰 AI Magazine System**      | System for automatically collecting and generating articles from Google News and Facebook. Built with **Laravel**, **Flask**, **OpenAI**, following a **microservices** architecture. |
+| **📱 Store Management App**    | Mobile phone store management app developed with **Java Swing + MySQL**, supporting product and order management features.  |
 
 ---
+
 
 ## 💻 Tech Stack
 
