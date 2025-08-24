@@ -38,14 +38,7 @@ I enjoy solving meaningful problems and building systems that work — reliably,
   <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg" width="36" height="36" alt="Selenium" /></a>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-![HoangPhc18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoangPhc18&show_icons=true&theme=radical)
 
 ---
 
