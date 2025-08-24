@@ -1,5 +1,5 @@
 <!-- Personal Banner (có thể thay link bằng ảnh của bạn hoặc ảnh từ repo) -->
-<img src="https://github.com/HoangPhc18/HoangPhc18/blob/main/banner.png" alt="Hoang Phuc Thai Banner" />
+<img src="https://github.com/HoangPhc18/HoangPhc18/blob/main/Hoang%20Phuc.png" alt="Hoang Phuc Thai Banner" />
 
 # 👋 Hi there! I'm Hoang Phuc Thai
 
