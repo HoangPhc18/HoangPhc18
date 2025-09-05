@@ -47,6 +47,7 @@ I enjoy solving meaningful problems and building systems that work — reliably,
 - 📧 Email: [th.phuc181@gmail.com](mailto:th.phuc181@gmail.com)  
 - 🐙 GitHub: [HoangPhc18](https://github.com/HoangPhc18)  
 - 📘 Facebook: [h0anqphuc](https://facebook.com/h0anqphuc)
+- 🧰 Linkedin : [Hoang Phuc ](https://www.linkedin.com/in/hoang-phuc-thai-493aa2371)
 
 ---
 
